@@ -10,7 +10,7 @@ tags:
   - Leadership
 layout: layouts/post.njk
 ---
-# Planning Breeds Longevity
+# An Important Step to starting a Business is a plan.
 
         In early January of 2022 I attended a virtual event on Business Planning hosted by Patrick Bet-David and a guest speaker Tom Ellsworth. I paid a hefty entrance fee and I was really
         happy I did after the first hour of the event. One of the topics the event was about planning to start your business for the long term. Having a vision and staying true to your       principles and why you would want to even start a business in the first place. 
