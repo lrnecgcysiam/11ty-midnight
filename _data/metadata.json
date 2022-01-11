@@ -1,21 +1,21 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
+  "title": "Business Planning 2022: Creative Internet Solution",
+  "url": "https://competent-shannon-bd03f9.netlify.app/",
   "language": "en",
-  "description": "Minimalist dark mode blog starter template for 11ty",
+  "description": "Planning Breeds Longevity",
   "feed": {
-    "subtitle": "Minimalist dark mode blog starter template for 11ty",
+    "subtitle": "Planning Breeds Longevity",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://competent-shannon-bd03f9.netlify.app/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://competent-shannon-bd03f9.netlify.app/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Chris Samuel",
+    "email": "chris.samuel@auroraixion.com",
+    "url": "https://competent-shannon-bd03f9.netlify.app/about-me/"
   }
 }
