@@ -1,7 +1,7 @@
 ---
 title: Planning Breeds Longevity.
 description: This is a post on why I want to start a business and want to prepare for success.
-date: 2022-10-01
+date: 2022-01-10
 tags:
   - Values
   - Principles
