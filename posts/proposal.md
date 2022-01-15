@@ -1,7 +1,7 @@
  ---
  title: Website Design Proposal
  description: Here is a sample proposal of our service agreement.
- date: 2022-01-21
+ date: 2022-01-15
  tags:
    - Proposal  
  layout: layouts/post.njk
