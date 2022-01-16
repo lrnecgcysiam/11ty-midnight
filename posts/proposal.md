@@ -1,7 +1,7 @@
 ---
 title: Proposal
 description: What is our crusade the injustice we are correcting.
-date: 2021-11-13
+date: 2022-01-16
 tags:
   - Proposal
   - Website Design
@@ -132,4 +132,86 @@ The are many Content Management ("CMS") available on which websites can be built
 - Factor 4
 - Factor 5
 
-### 4.5 Cross Browser Compatibility 
+### 4.5 Cross Browser Compatibility
+
+The Website will be compatible for viewingg all the major browsers including Mozilla Firefox, Microsoft Edge, Chrome, Opera, Vivaldi at the time of the launch of the Website.
+
+### 4.6 Hosting and Maintenance 
+
+To complement its Website Design and Development services, **Company Name** is also able to offer clients premium website hosting and maintenance services. While we are not the cheapest service in this area, clients will more than cover their additional cost through having all the Website's ongoing needs being catered for by on e service provider. This factor is particularyly relevant for ongoing website development and maintenance.
+
+## Website Design Process
+
+The Website design process itself will go through a number of steps and processes including:
+
+- Step/Process 1
+- Step/Process 2
+- Step/Process 3
+- Step/Process 4
+- Step/Process 5
+
+
+## Deliverables
+
+As part of its brief **Company Name** would deliver the following to: ** Client Name**
+
+- Deliverable 1
+- Deliverable 2
+- Deliverable 3
+- Deliverable 4
+- Deliverable 5
+
+    ("Deliverables")
+
+## 7. Delivery Schedule
+
+
+The Deliverables will be delivered according to the following schedule commencing the data of the acceptance of **Company Name**'s proposal by **Client Name**:
+
+- Delivery Day 1
+- Delivery Day 2
+- Delivery Day 3
+- Delivery Day 4
+- Delivery Day 5
+
+
+("Delivery Schedule") On each delivery, **Client Name** will have to sign off on 
+each of the Deliverables being delivered before development of the Website will prograss 
+to the next stage. The Delivery Schedule allows for **Insert Days** for **Client name** to respond with any alternations that may be required. Any delay in this part of the process, may cause delays to subsequent deliveries.
+
+
+## 8.  Design and Development Fee
+
+**Company Name**'s Design and Development Fee ("Fee") is ** Insert Amount. The Fee shall be payable as follows:
+
+## 9. Hosting and Maintenance Fees 
+
+**Company Name** is able to offer **Client Name** hosting services and ongoing maintenance services for the Website as follows:
+
+
+## 10. Terms and Condtions
+
+This proposal by **Company Name** for the development of the Website for **Client Name is subjet to the following terms and conditions:
+
+- (a) All Property rights in respect of work does on the Website and all materials used in 
+        used in the creation of the Website shall remain verted in **Company Name** until 
+     such time **Client Name** has payment in full of all amounts due to **Company Name** pursuant to this Agreement without any deduction. On receipt of full payment without any deduction, all property in respect of work does on this Website and all materials used in the creation of the Website shall west in **Company Name** without reservation. Such materials shall include but are not limited to designs, images, graphics of all types, source code, mock up, work-up files and
+     text.
+
+- (b) **Company Name** shall secure any consent and license required from any third party 
+       in respet of any text to other materials supplied to **Company Name** for use in the
+       creation of the Website. **Company Name** will hold harmless, protect and defend **Company Name** from any claims or suits arising from the use of such materials.
+
+
+- (c) **Company Name** shall have the right to display a design credit at the bottom of the
+    primary landing page and the About Us page and  **Company Name** may include details of the Website and an image of it in its portfolio of works.
+
+- (d) On Acceptance of this proposal by **Client Name**. This Proposal shall for a legally binding agreement between **Client Name** and **Company Name**. 
+
+
+Sincerely,
+
+**Sender Name**
+**Sender Title**
+[**Sender Company**]
+
