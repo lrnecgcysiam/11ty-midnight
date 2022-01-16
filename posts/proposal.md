@@ -3,10 +3,9 @@ title: Proposal
 description: What is our crusade the injustice we are correcting.
 date: 2021-11-13
 tags:
-  - Mission
-  - HTML
-  - CSS
-  - Digital Divide 
+  - Proposal
+  - Website Design
+  - Single Page Website
 layout: layouts/post.njk
 ---
 ## Website Design Proposal 
@@ -54,7 +53,7 @@ Based on our recent discsssions and our research **Company Name** has identifed 
 
 ### 3.1 Brand Recognition
 
-OUr research shows that **Client Name** is presently lacking in brand recognition with potential customers across hte whole range of its products and services . While some potential customers were aware of the products and services offered by **Client Name** offered by ** client name they were not able to link them with the brand. **Company Name** can assist **Client Name** in developing brand recognition and brand association with its products and services. The Website that will be
+Our research shows that **Client Name** is presently lacking in brand recognition with potential customers across hte whole range of its products and services . While some potential customers were aware of the products and services offered by **Client Name** offered by ** client name they were not able to link them with the brand. **Company Name** can assist **Client Name** in developing brand recognition and brand association with its products and services. The Website that will be
 developed for **Client Name** will reflect a tight cohesion between its products and services and the brand. AS part of this process, **Company Name** can also assist by developing a strong brand image for 
 **Client Name**. In addition, the Website will reflect **Client Name**'s personalitywhich is part of its vision and mission.
 
