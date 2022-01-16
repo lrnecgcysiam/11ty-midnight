@@ -85,12 +85,51 @@ In Outline, **Company Name's development and creation process will follow the fo
 >> - Collect and collate all materials required for the creation for the Website;
 >> - Develop concepts for selection by **Client Name**;
 >> - Commence development process;
->> -Submit mock-ups for approval by **Client Name**
+>> - Submit mock-ups for approval by **Client Name**
 >> - Continue and complete development;
 >> - Full access to the Website by **Client Name** for the final approval;
 >> - Receive final payment for **Client Name** for final approval;
 >> - Migrate webstie to live server; and Training as appropriate for the website, including all backend functions;
 
 
+### 4.2 Single Page Website
+
+The Website will be developerd on a single page basis. This means the content of all the main pages ( such as About Us, products and Servies, Case study, Contact) of the Website will be available on the landing page by scrolling up and down. This makes navigation a breeze for users. The main pages will still exist indivisually. This will allow **Client Name**  the opportunity to have more detailed information on the individual pages then there is on the Landing Page.
+
+The main sections/pages will be:
+
+- Page Name 1
+- Page name 2
+- Page Name 3
+- Page Name 4
+- Page Name 5
 
 
+While all the main sections/pages will appear on the landing Page, each will be in distinct and segregated parr. each part will have it sown theme within the context of the theme of the whole Landing Page.
+
+The Landing Page and the individual sections/pages will have some of all of the following 
+features:
+
+
+- Feature 1
+- Feature 2
+- Feature 3 
+- Feature 4
+
+
+
+### About Us Page
+
+This is the most important section/page of the Website. The About Us page will tell users about **Client Name**, its products and services, its philosophy and its vision. It is the page that will seek to establish a connection between **Client Name** abd the Website users. The aim being to convert the users into customers.
+
+### Content Mangement System
+
+The are many Content Management ("CMS") available on which websites can be built on such as Drupal, Mura, Wordpress and Magento. The team of developers at **Company Name** are highly experienced and proficient in these CMS systems and many others. Based on our assessment of the needs of  **Client Name**, **Company Name** strongly recommends that **CMS Name be users for our website. Our Recommendation is based on the following factors:
+
+- Factor 1
+- Factor 2
+- Factor 3
+- Factor 4
+- Factor 5
+
+### 4.5 Cross Browser Compatibility 
