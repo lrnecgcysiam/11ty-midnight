@@ -1,6 +1,6 @@
 ---
 title: Proposal
-description: What is our crusade the injustice we are correcting.
+description: What is our crusade and the injustice we are correcting.
 date: 2022-01-16
 tags:
   - Proposal
