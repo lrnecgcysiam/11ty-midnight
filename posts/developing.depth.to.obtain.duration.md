@@ -7,7 +7,7 @@ tags:
   - Innovation
   - Vision
   - Legacy
-  - Disrupt an industry.
+  - Disruptive
 layout: layouts/post.njk
 ---
 
