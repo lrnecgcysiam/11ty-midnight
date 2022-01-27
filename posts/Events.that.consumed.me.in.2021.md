@@ -5,7 +5,7 @@ date: 2022-01-22
 tags:
   - distractions
   - productivity
-  - focus
+  - focus 
   - accountability
 layout: layouts/post.njk
 ---
