@@ -17,7 +17,7 @@ blogs initially but later as a complete book physical and digital. The reason wh
 
 ## What will my book be about?
 
-###[theBook](https://festive-mestorf-340dff.netlify.app/mental-health-field/)
+### [theBook](https://festive-mestorf-340dff.netlify.app/mental-health-field/)
 
 To view my early draft of theBook you can visit link above where you read the latest chapters. I am going to try and be as aggressive with this book I have already outlined how the book will go. But for the sake of the readers of my business plan blog I will share it again [here](https://thebook.lrnecgysiam.com/introdutions/). 
 
